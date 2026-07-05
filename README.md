@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0DC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Real-World+Web+Apps;400%2B+DSA+Problems+on+LeetCode;Always+Shipping+to+Production+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0DC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Real-World+Web+Apps;500%2B+DSA+Problems+on+LeetCode;Always+Shipping+to+Production+" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 - 🎓 BCA Graduate from **CSJM University, Kanpur Nagar** (2026) — CGPA: 7.63/10
 - 💻 Full Stack Developer with strong hands-on experience in **REST API design, authentication, and cloud deployment**
 - 🏗️ Focused on building things that go **from idea → code → live on the internet**
-- 🧩 Solved **400+ DSA problems** on LeetCode (C++) | Contest rating: **1500** | 50+ contests participated
+- 🧩 Solved **500+ DSA problems** on LeetCode (C++) | Contest rating: **1500** | 50+ contests participated
 - 🏆 Participated in **Code Clash**, a coding competition organized by **IIT Jodhpur**
 - 📫 Reach me at **avneesh149m@gmail.com**
 
