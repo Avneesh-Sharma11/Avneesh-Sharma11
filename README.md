@@ -125,6 +125,25 @@
 
 ---
 
+## 📊 LeetCode Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/u/Avneesh-Sharma/">
+        <img src="https://leetcard.jacoblin.cool/Avneesh-Sharma?theme=dark&font=Karma" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/Avneesh-Sharma/">
+        <img src="https://leetcard.jacoblin.cool/Avneesh-Sharma?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Heatmap" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🏆 Achievements
 
 - 🧩 Solved **400+ DSA problems** on LeetCode using C++
