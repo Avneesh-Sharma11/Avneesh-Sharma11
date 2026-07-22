@@ -148,11 +148,6 @@
         patterns and optimizing solutions from brute force to optimal
         approaches.
       </p>
-      <h4>📖 Favorite Topics</h4>
-      <p>
-        Arrays • Strings • Binary Search • Sliding Window • Stack • Queue •
-        Trees • Graph • Dynamic Programming
-      </p>
       <em>"Code. Learn. Optimize. Repeat."</em>
       <br />
       <p>One problem at a time, one step closer to becoming a better engineer. 🚀</p>
