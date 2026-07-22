@@ -125,19 +125,37 @@
 
 ---
 
-## 📊 LeetCode Stats
+### 📊 LeetCode Stats
 
 <table>
   <tr>
-    <td>
+    <td width="55%">
       <a href="https://leetcode.com/u/Avneesh-Sharma/">
-        <img src="https://leetcard.jacoblin.cool/Avneesh-Sharma?theme=dark&font=Karma" alt="LeetCode Stats" />
+        <img
+          src="https://leetcard.jacoblin.cool/Avneesh-Sharma?theme=dark&font=Karma&ext=contest"
+          alt="LeetCode Contest Rating"
+          width="100%"
+        />
       </a>
     </td>
-    <td>
-      <a href="https://leetcode.com/u/Avneesh-Sharma/">
-        <img src="https://leetcard.jacoblin.cool/Avneesh-Sharma?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Heatmap" />
-      </a>
+    <td width="45%" valign="top" align="left">
+      <h3>🔥 Sharpening Problem-Solving Skills</h3>
+      <hr/>
+      <p>
+        Passionate about solving Data Structures and Algorithms problems
+        consistently to strengthen problem-solving skills, improve coding
+        efficiency, and prepare for technical interviews. I enjoy learning new
+        patterns and optimizing solutions from brute force to optimal
+        approaches.
+      </p>
+      <h4>📖 Favorite Topics</h4>
+      <p>
+        Arrays • Strings • Binary Search • Sliding Window • Stack • Queue •
+        Trees • Graph • Dynamic Programming
+      </p>
+      <em>"Code. Learn. Optimize. Repeat."</em>
+      <br />
+      <p>One problem at a time, one step closer to becoming a better engineer. 🚀</p>
     </td>
   </tr>
 </table>
@@ -146,7 +164,7 @@
 
 ### 🏆 Achievements
 
-- 🧩 Solved **400+ DSA problems** on LeetCode using C++
+- 🧩 Solved **500+ DSA problems** on LeetCode using C++
 - 📈 LeetCode contest rating: **1500** | Participated in **50+ contests**
 - 🏅 Competed in **Code Clash**, organized by **IIT Jodhpur**
 
