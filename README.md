@@ -91,15 +91,16 @@
       <a href="https://github.com/Avneesh-Sharma11/WonderStay">💻 Source Code</a>
     </td>
     <td width="50%">
-      <h3>🔗 URL Shortener</h3>
-      <p>A Bit.ly-style URL shortening service built with the MERN stack.</p>
+      <h3>🔐 Authentication System</h3>
+      <p>A secure backend authentication API built with Node.js, Express.js, MongoDB, and JWT.</p>
       <ul>
-        <li>React.js, Node.js, Express.js, MongoDB</li>
-        <li>Generates unique short URLs</li>
-        <li>Redirects to original long URL</li>
+        <li>Node.js, Express.js, MongoDB, JWT</li>
+        <li>User registration, login, logout, and protected routes</li>
+        <li>Refresh token rotation with SHA-256 hashed token storage</li>
+        <li>HTTP-only cookies with session-based token validation</li>
+        <li>Logout from all devices support</li>
       </ul>
-      <a href="https://frontend-0rga.onrender.com">🔗 Live Demo</a> ·
-      <a href="https://github.com/Avneesh-Sharma11/url-shortner">💻 Source Code</a>
+<a href="https://github.com/Avneesh-Sharma11/Authentication-System">💻 Source Code</a>
     </td>
   </tr>
 </table>
